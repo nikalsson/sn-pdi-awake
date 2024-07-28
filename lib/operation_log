@@ -1,0 +1,31 @@
+2024-07-14 17:00:55.491  >> START REST OPERATIONS, TRY TO READ THE LAST MESSAGE FROM THE TABLE
+2024-07-14 17:00:55.496  >> HIBERNATING, WAITING TO START INSTANCE
+2024-07-14 17:00:56.497  >> SELENIUM ERROR: 19:00:55.859 INFO [GridLauncherV3.launch] - Selenium build info: version: '3.13.0', revision: '2f0d292'
+19:00:55.860 INFO [GridLauncherV3$1.launch] - Launching a standalone Selenium Server on port 4444
+2024-07-14 19:00:55.946:INFO::main: Logging initialized @333ms to org.seleniumhq.jetty9.util.log.StdErrLog
+19:00:56.373 INFO [SeleniumServer.boot] - Selenium Server is up and running on port 4444
+
+2024-07-14 17:00:57.536  >> wakeUpInstance: Redirecting to https://developer.servicenow.com/dev.do
+2024-07-14 17:01:03.519  >> wakeUpInstance: Finding the "Required Only" cookies button
+2024-07-14 17:01:04.353  >> wakeUpInstance: Finding the "Close" cookies button
+2024-07-14 17:01:04.788  >> wakeUpInstance: ERROR >> StaleElementReferenceError: stale element reference: stale element not found in the current frame
+  (Session info: chrome=126.0.6478.126)
+2024-07-14 17:01:04.790  >> wakeUpInstance: TERMINATING wakeUpInstance
+2024-07-14 17:02:04.473  >> START REST OPERATIONS, TRY TO READ THE LAST MESSAGE FROM THE TABLE
+2024-07-14 17:02:04.480  >> HIBERNATING, WAITING TO START INSTANCE
+2024-07-14 17:02:05.398  >> SELENIUM ERROR: 19:02:04.864 INFO [GridLauncherV3.launch] - Selenium build info: version: '3.13.0', revision: '2f0d292'
+19:02:04.866 INFO [GridLauncherV3$1.launch] - Launching a standalone Selenium Server on port 4444
+2024-07-14 19:02:04.948:INFO::main: Logging initialized @336ms to org.seleniumhq.jetty9.util.log.StdErrLog
+19:02:05.357 INFO [SeleniumServer.boot] - Selenium Server is up and running on port 4444
+
+2024-07-14 17:02:06.383  >> wakeUpInstance: Redirecting to https://developer.servicenow.com/dev.do
+2024-07-14 17:02:09.261  >> wakeUpInstance: Finding the "Required Only" cookies button
+2024-07-14 17:02:10.578  >> wakeUpInstance: Finding the "Close" cookies button
+2024-07-14 17:02:11.385  >> wakeUpInstance: Finding the Sign in button
+2024-07-14 17:02:12.375  >> wakeUpInstance: Wait until URL contains "username"
+2024-07-14 17:02:17.029  >> wakeUpInstance: Input the email address
+2024-07-14 17:02:17.393  >> wakeUpInstance: Click "Next"
+2024-07-14 17:02:17.757  >> wakeUpInstance: Waiting for password field to appear
+2024-07-14 17:02:17.759  >> wakeUpInstance: Fill in the password
+2024-07-14 17:02:18.613  >> wakeUpInstance: Find "Sign in" button
+2024-07-14 17:02:18.914  >> wakeUpInstance: Clicked submit button
